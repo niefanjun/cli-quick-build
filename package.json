@@ -12,14 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^6.0.0"
-  },
-  "devDependencies": {
+    "commander": "^6.0.0",
     "download-git-repo": "^3.0.2",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6",
     "handlebars": "^4.7.6",
     "inquirer": "^7.3.3",
     "metalsmith": "^2.3.0"
-  }
+  }    
 }
